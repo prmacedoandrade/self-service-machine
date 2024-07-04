@@ -69,7 +69,7 @@ const SelfServiceMachine = {
     data(){
         // Data object for the application
         return {
-            message: "Hello Word"
+            products: window.products
         }
     }
 
